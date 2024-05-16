@@ -1,10 +1,9 @@
 {
   "name": "react-portfolio",
-  "version": "1.0.0",
-  "description": "## Description Welcome to my React-based portfolio. This single-page application showcases my projects and technical skills, emphasizing my ability to develop responsive and dynamic web applications using the latest web technologies. Deployed on Netlify, this portfolio serves as a practical demonstration of my abilities in building modern web applications that are both functional and aesthetically pleasing.",
-  "main": "index.js",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
     "start": "vite",
     "build": "vite build",
