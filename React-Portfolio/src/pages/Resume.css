@@ -1,0 +1,50 @@
+.resume {
+    padding: 20px;
+    background-color: #f8f9fa; 
+    color: #333; 
+  }
+  
+  .resume h1, .resume h2, .resume h3 {
+    color: #004085; /
+  }
+  
+  .resume a {
+    color: #007bff; 
+    text-decoration: none; 
+  }
+  
+  .resume a:hover {
+    text-decoration: underline; 
+  }
+  
+  .skills {
+    display: flex;
+    justify-content: space-around; 
+    margin-top: 20px;
+  }
+  
+  .category {
+    flex-basis: 30%; 
+    background-color: #e9ecef; 
+    padding: 10px;
+    border-radius: 5px; 
+  }
+  
+  .category h3 {
+    text-align: center; 
+  }
+  
+  .category ul {
+    list-style-type: none; 
+    padding: 0;
+  }
+  
+  .category li {
+    padding: 5px 0; 
+    border-bottom: 1px solid #dee2e6; 
+  }
+  
+  .category li:last-child {
+    border-bottom: none; 
+  }
+  
