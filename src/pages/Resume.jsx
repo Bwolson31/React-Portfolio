@@ -5,7 +5,6 @@ function Resume() {
     return (
         <section className="resume">
             <h1>Resume</h1>
-            {/* old resume, don't quite have the time to update this yet. */}
             <p>Download my full resume <a href="Resume.pdf" download>here</a>.</p>
             <h2>Skills & Proficiencies</h2>
             <div className="skills">

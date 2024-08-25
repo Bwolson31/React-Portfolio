@@ -13,10 +13,10 @@ export const projects = [
         repoLink: "https://github.com/Bwolson31/5-Day-Weather-Forecast"
     },
     {
-        title: "Rate-The-Writer",
-        image: rateTheWriter,
-        demoLink: "https://rate-the-writer-website-ed969a99c53f.herokuapp.com/login",
-        repoLink: "https://github.com/Bwolson31/rate-the-writer"
+        title: "ScheduleWizard",
+        image: ScheduleWizardTwo,
+        demoLink: "https://schedule-wizard-2.onrender.com/",
+        repoLink: "https://github.com/Bwolson31/Schedule-Wizard-2"
     },
     {
         title: "Workday-Calendar",
