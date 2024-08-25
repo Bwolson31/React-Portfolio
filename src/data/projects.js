@@ -1,6 +1,6 @@
 
 import FiveDayWeatherForecast from '../assets/FiveDayWeatherForecast.png';
-import rateTheWriter from '../assets/ratethewriter.png';
+import ScheduleWizardTwo from '../assets/ScheduleWizardTwo.png';
 import workDayCalendar from '../assets/workdaycalendar.png';
 import codeQuiz from '../assets/codequiz.png';
 import passwordGenerator from '../assets/passwordgenerator.png';

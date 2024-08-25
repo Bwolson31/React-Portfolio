@@ -16,7 +16,6 @@ function Contact() {
             ...prevState,
             [name]: value
         }));
-        // Validate directly during the change if there's already an error
         if (errors[name]) {
             validateField(name, value);
         }
@@ -45,7 +44,6 @@ function Contact() {
 
     const handleSubmit = (event) => {
         event.preventDefault();
-        // Validate all fields before submitting
         Object.keys(formData).forEach(key => validateField(key, formData[key]));
         const isFormValid = Object.values(errors).every(x => !x);
         if (isFormValid) {

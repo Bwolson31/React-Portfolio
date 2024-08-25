@@ -1,6 +1,6 @@
 import React from 'react';
-import { projects } from '../data/projects'; // Adjust the path as necessary
-import Project from '../components/Project'; // Adjust the path if your Project component is in a different folder
+import { projects } from '../data/projects'; 
+import Project from '../components/Project'; 
 import "./Portfolio.css";
 
 
